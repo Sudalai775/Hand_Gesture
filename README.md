@@ -11,7 +11,8 @@
 Hand Gesture Controller is a computer vision application that enables users to control their computer without touching a mouse or keyboard. Using a webcam, MediaPipe hand tracking, and OpenCV image processing, the system recognizes hand gestures and translates them into desktop actions in real time.
 
 ---
-
+![Video Template](https://github.com/Sudalai775/Calendar-App/blob/main/website.png?raw=true)
+![Video].(https://github.com/Sudalai775/Hand_Gesture/blob/main/Hand%20Gesture.mp4)
 ## 🎯 Features
 
 ### 🖱️ Cursor Control
